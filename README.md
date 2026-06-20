@@ -39,20 +39,6 @@ Answer + Sources
 
 ---
 
-## Project Structure
-
-REC20-12/
-
-├── app.py
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── .env.example
-└── data/
-    └── RegsNavyIV.pdf
-
----
-
 ## Design Decisions
 
 ### 1. Chunking
