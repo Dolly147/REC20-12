@@ -155,28 +155,6 @@ python app.py
 
 ---
 
-## Evaluation Criteria
-
-The system can be evaluated using:
-
-1. Retrieval Quality
-
-   * Are relevant chunks retrieved?
-
-2. Answer Correctness
-
-   * Is the answer correct according to the document?
-
-3. Grounding
-
-   * Is the answer generated only from retrieved context?
-
-4. Handling Unanswerable Questions
-
-   * Does the system avoid hallucinating when information is unavailable?
-
----
-
 ## Technologies Used
 
 * Python
